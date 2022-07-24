@@ -133,3 +133,13 @@ M = merge
 
 
 倒角可以通过ctrl + A 选择 scale 之后 ，点击Ctrl+B进行倒角
+
+
+
+在选中需要进行弯曲的点之后，按住shift+w按键进行弯曲
+
+
+
+在tab模式下，点击K进入Knife模式，此时可以在线上添加 point点 ，完成后点击enter进行保存
+
+![image-20220724130203930](../images/image-20220724130203930.png)
