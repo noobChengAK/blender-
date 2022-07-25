@@ -142,4 +142,10 @@ M = merge
 
 在tab模式下，点击K进入Knife模式，此时可以在线上添加 point点 ，完成后点击enter进行保存
 
+
+
 ![image-20220724130203930](../images/image-20220724130203930.png)
+
+按住shift+alt+leftmouse，可以选择一圈一圈进行选择
+
+![image-20220725123050491](../images/image-20220725123050491.png)
