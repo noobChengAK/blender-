@@ -149,3 +149,7 @@ M = merge
 按住shift+alt+leftmouse，可以选择一圈一圈进行选择
 
 ![image-20220725123050491](../images/image-20220725123050491.png)
+
+选中一些物体之后，按住control+L，选择link material， 则可以将material 变成一样的
+
+<img src="../images/image-20220725151102141.png" alt="image-20220725151102141" style="zoom:50%;" />
